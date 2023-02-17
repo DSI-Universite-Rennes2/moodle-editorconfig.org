@@ -23,3 +23,7 @@ Place the `.editorconfig` file of this repository into the root folder of your p
 Depending on your IDE, you may need to install a plugin.
 - list of editors that [handle out-of-box](https://editorconfig.org/#pre-installed) `.editorconfig` file
 - list of editors that [require a plugin](https://editorconfig.org/#download) to handle `.editorconfig` file
+
+
+## About max_line_length property
+Note that `max_line_length` property is [supported by a limited number of editors](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties#supported-by-a-limited-number-of-editors).
