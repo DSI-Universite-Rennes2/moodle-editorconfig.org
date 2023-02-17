@@ -29,4 +29,4 @@ max_line_length = 132
 
 # Remove maximum line length for language files.
 [lang/**.php]
-max_line_length = 0
+max_line_length = off
